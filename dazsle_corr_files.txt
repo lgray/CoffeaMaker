@@ -1,0 +1,13 @@
+* * ggH/Output_smooth_2017MC.root
+ZJets * ggH/ZJetsCorr.root
+WJets * ggH/WJetsCorr.root
+PUWeight2016_central puw ggH/puWeights_All.root
+PUWeight2016_up puw_p ggH/puWeights_All.root
+PUWeight2016_down puw_m ggH/puWeights_All.root
+PUWeight2017_central pileup ggH/pileup_Cert_294927-306462_13TeV_PromptReco_Collisions17_withVar.root
+PUWeight2017_up pileup_plus ggH/pileup_Cert_294927-306462_13TeV_PromptReco_Collisions17_withVar.root
+PUWeight2017_down pileup_minus ggH/pileup_Cert_294927-306462_13TeV_PromptReco_Collisions17_withVar.root 
+* * ggH/TriggerEfficiencies_SingleMuon_Run2017_RunCtoF.root
+* * ggH/EfficienciesAndSF_RunBtoF_Nov17Nov2017.root
+* * ggH/RunBCDEF_data_ID.json
+* * ggH/RunBCDEF_data_ISO.json
